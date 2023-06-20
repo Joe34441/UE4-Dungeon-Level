@@ -1,0 +1,10 @@
+- between corridor and 2nd main room, 1 of the rotate puzzle blocks to open a new door.
+	this gives a clue for how to beat the triple block puzzles
+
+- lines in each direction for the puzzle, with a colour corresponding to the projectile spawning block
+
+- right most jail cell showing missing lever, extend to double bars going to the wall
+
+- lines from drawbridge lever to drawbridge
+- lines from main jail door lever to door
+

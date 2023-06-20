@@ -1,0 +1,20 @@
+(level 2)
+
+Level starts at end of level 1, the defeat enemy drops a key to the only door leading out of the area. This leads to a corridor, where walking
+forwards over the clearly unstable ground causes you to fall into 1st main room.
+
+1st main room, you fall onto a wrong tile and trigger the first enemies to attack. There are seperated blocks of rows of tiles on the floor,
+stepping on the wrong tile will trigger the coffins on either side of that row to open, releasing the skeleton enemy. Each tile contains a
+symbol, the correct symbol for each block of tiles is on either side, clearly illuminated.
+
+1st main room leads into elevator room, taking you further down into the dungeon.
+
+Elevator leads into a corridor with axes swinging from side to side, very easy to tranverse but must be cautious to not get hit.
+
+Coming from that corridor leads you into the 2nd and main puzzle room. To escape, you go through a tunnel behind a locked jail door.
+To unlock this door, you must use the correct lever at the top of the level. If the player also uses a wrong lever, more enemies will be released.
+To reach these levers, you must find and pickup a missing lever piece to activate a drawbridge. To reach this lever piece, you must complete a
+puzzle by rotating three 'blocks' showing a different symbol such that all symbols are facing an identical symbol. Getting this wrong will cause
+projectiles to fire towards the player when they use the lever with the wrong combination active.
+
+Going through the tunnel leads you outside the castle, to a horse drawn carriage waiting for you to make your escape.
